@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi there, My name is Roshan Paudel. I am practicing as a backend developer in my home.<br><br>
 
+---
+[![](https://visitcount.itsvg.in/api?id=Roshanpaudel111&icon=5&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/leduap-nahsor) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15894598) 
@@ -15,8 +17,5 @@ Hi there, My name is Roshan Paudel. I am practicing as a backend developer in my
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roshanpaudel111&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=Roshanpaudel111&icon=5&color=12)](https://visitcount.itsvg.in)
+
