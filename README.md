@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, My name is Roshan Paudel. I am practicing as a backend developer in my home.<br><br>
+Hi there, My name is Roshan Paudel. I am practicing as a backend web developer from my home.<br><br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Roshanpaudel111&icon=5&color=12)](https://visitcount.itsvg.in)
